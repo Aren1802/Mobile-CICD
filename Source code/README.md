@@ -8,7 +8,7 @@ Now in Android App
 **Learn how this app was designed and built in the [design case study](https://goo.gle/nia-figma), [architecture learning journey](docs/ArchitectureLearningJourney.md) and [modularization learning journey](docs/ModularizationLearningJourney.md).**
 
 This is the repository for the [Now in Android](https://developer.android.com/series/now-in-android)
-app. It is a **work in progress** 🚧...
+app. It is a **work in progress** 🚧.
 
 **Now in Android** is a fully functional Android app built entirely with Kotlin and Jetpack Compose. It
 follows Android design and development best practices and is intended to be a useful reference
